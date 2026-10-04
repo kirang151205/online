@@ -61,10 +61,10 @@ online-quiz-app/
 ### Setup Instructions
 ```bash
 # 1. Clone the repository
-git clone https://github.com/kirang151205/online-quiz-application.git
+git clone https://github.com/k0772136-crypto/online.git
 
 # 2. Navigate to project root
-cd online-quiz-application
+cd online
 
 # 3. Install dependencies
 npm install
@@ -94,4 +94,4 @@ $$\text{Percentage} = \left(\frac{\text{Correct Answers}}{\text{Total Questions}
 
 ## 📄 Submission Artifacts
 - **Project Report & Slides (PDF):** `Online_Quiz_Application_Report.pdf` (Included in root directory)
-- **GitHub Repository:** [https://github.com/kirang151205/online-quiz-application](https://github.com/kirang151205/online-quiz-application)
+- **GitHub Repository:** [https://github.com/k0772136-crypto/online](https://github.com/k0772136-crypto/online)

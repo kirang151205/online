@@ -373,9 +373,9 @@ const passed = percentage >= 60;`;
   doc.rect(50, repoBoxY, 495, 95).fillAndStroke('#f1f5f9', '#94a3b8');
   doc.fillColor(primaryColor).fontSize(11).font('Helvetica-Bold').text('GitHub Repository Details:', 65, repoBoxY + 12);
   doc.fillColor(darkTextColor).fontSize(9.5).font('Helvetica')
-    .text('Repository Name: online-quiz-application', 65, repoBoxY + 30)
-    .text('Owner / Account: KIRANKUMAR G (kirang151205)', 65, repoBoxY + 46)
-    .text('Repository URL: https://github.com/kirang151205/online-quiz-application', 65, repoBoxY + 62, { underline: true });
+    .text('Repository Name: online', 65, repoBoxY + 30)
+    .text('Owner / Account: k0772136-crypto', 65, repoBoxY + 46)
+    .text('Repository URL: https://github.com/k0772136-crypto/online', 65, repoBoxY + 62, { underline: true });
 
   doc.y = repoBoxY + 110;
   doc.fillColor(primaryColor).fontSize(12).font('Helvetica-Bold').text('6.1 Quick Start & Demonstration Instructions');
@@ -383,10 +383,10 @@ const passed = percentage >= 60;`;
 
   const runSteps = 
 `# 1. Clone the repository
-git clone https://github.com/kirang151205/online-quiz-application.git
+git clone https://github.com/k0772136-crypto/online.git
 
 # 2. Navigate to project root
-cd online-quiz-application
+cd online
 
 # 3. Install dependencies
 npm install
