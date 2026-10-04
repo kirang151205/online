@@ -94,4 +94,4 @@ $$\text{Percentage} = \left(\frac{\text{Correct Answers}}{\text{Total Questions}
 
 ## 📄 Submission Artifacts
 - **Project Report & Slides (PDF):** `Online_Quiz_Application_Report.pdf` (Included in root directory)
-- **GitHub Repository:** [https://github.com/k0772136-crypto/online](https://github.com/k0772136-crypto/online)
+- **GitHub Repository:** [https://github.com/kirang151205/online](https://github.com/kirang151205/online)
